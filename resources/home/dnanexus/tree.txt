@@ -1,0 +1,13 @@
+.
+├── ABOUT.md
+├── dxapp.json
+├── README.md
+├── resources
+│   └── home
+│       └── dnanexus
+│           ├── Miniconda2-latest-Linux-x86_64.sh.gz
+│           └── tree.txt
+└── src
+    └── code.sh
+
+4 directories, 6 files
